@@ -1,0 +1,11 @@
+export const heading='Pain & Functional Description';
+export const description1='The description of the current situation gives your Optimum';
+export const description2='The trainer a picture of and clues to underlying causesof your problem';
+export const description3='If you have problems with pain/aches,stiffness,weakness or functional problems,describe this/these below.(List the simptoms in descending order with the most troublesome first)'
+export const question1='Have you been diagnosed with this problem?';
+export const question2='Did the problem start after a physical trauma?';
+export const question3='Did the problem start after a mental trauma?';
+export const question4='How often do you experience the problem?';
+export const question5='When do you experience the problem?';
+export const question6='How intense is the experience of the problem on average on a 0-10 scale?';
+export const severe1="Have you suffered severe problems like Cancer?"
